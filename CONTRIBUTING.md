@@ -1,22 +1,23 @@
 # Contributing guidelines
 
-Thank you for contributing to this companion repository.
+Thank you for contributing to this repository.
 
-## Add a paper
+## Add or update a paper entry
 
-1. Start from `source/paper_seed_list.md` and identify the correct taxonomy category.
+1. Identify the correct taxonomy category first.
 2. Add or update entries in `papers/image_methods.md`, `papers/video_methods.md`, and `papers/timeline.md` using concise and neutral language.
 3. Verify year, venue, and paper link from reliable sources (publisher, arXiv, OpenReview, official project page).
 4. Keep fields as **To be checked** if verification is incomplete.
 
-## Add a dataset
+## Add or update a dataset entry
 
 1. Add dataset updates in `benchmarks/datasets.md` and `resources/dataset_links.md`.
 2. Prefer official dataset pages, then official project pages, then publisher or author-maintained repositories.
 3. Mark uncertain links as **To be checked**.
 
-## Mark official and unofficial code
+## Code-link status in paper tables
 
+- The `Code` columns in `papers/image_methods.md`, `papers/video_methods.md`, and `papers/general_restoration_backbones.md` are the authoritative locations for code links.
 - Use **Official** only for official GitHub/Gitee/project releases from authors or institutions.
 - Use **Unofficial** when repository ownership is not official and label this clearly.
 - Use **Not released** only when code absence is reasonably verified from official sources.

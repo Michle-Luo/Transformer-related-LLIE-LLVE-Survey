@@ -20,6 +20,6 @@ The methods in this file are related backbones or methodological references, and
 | 2022 | RVRT | NeurIPS 2022 | Video restoration | https://openreview.net/forum?id=GKfNB4BegL | https://github.com/JingyunLiang/RVRT | Related video restoration backbone | Recurrent Transformer with temporal propagation and alignment. |
 | 2022 | Shi et al. | To be checked | Video restoration | To be checked | To be checked | Alignment rethinking | Re-examines patch alignment and temporal attention. |
 | 2023 | VDTR | To be checked | Video restoration | To be checked | To be checked | Related video restoration backbone | Transformer-related video deblurring or restoration reference. |
-| 2024 | VRT | To be checked | Video restoration | To be checked | To be checked | Related video restoration backbone | Video restoration Transformer with spatio-temporal modeling. |
+| 2024 | VRT | IEEE Transactions on Image Processing 2024 | Video restoration | https://doi.org/10.1109/TIP.2024.3372454 | To be checked | Related video restoration backbone | Video restoration Transformer with spatio-temporal modeling. |
 | 2025 | Pimpale et al. | To be checked | Video denoising | To be checked | To be checked | Related video restoration backbone | CNN-Transformer-GNN denoising reference remains to be checked. |
 | 2026 | HiRT | To be checked | Video restoration | To be checked | To be checked | Related video restoration backbone | Hierarchical recurrent Transformer with frequency-related modeling. |
