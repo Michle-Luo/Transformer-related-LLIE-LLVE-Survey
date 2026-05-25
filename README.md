@@ -2,7 +2,7 @@
 
 This repository is a concise navigation hub for survey resources on Transformer-related low-light image enhancement (LLIE) and low-light video enhancement (LLVE).
 
-Paper metadata, paper links, and code links are maintained directly in the paper tables.
+Paper metadata, paper links, and code links are maintained directly in the following tables.
 
 ## Navigation
 
