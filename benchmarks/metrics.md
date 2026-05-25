@@ -12,6 +12,4 @@
 | T-Warp-MSE | Temporal consistency | LLVE | Lower is better | Measures warping-based temporal error | Depends on optical flow quality. |
 | tLPIPS | Temporal perceptual consistency | LLVE | Lower is better | Measures perceptual variation across frames | Useful for flickering analysis. |
 | ALV | Temporal brightness consistency | LLVE | Lower is better | Measures brightness variation consistency | Implementation details should be reported. |
-| ALV-Norm | Temporal brightness consistency | LLVE | Lower is better | Measures normalized brightness variation consistency | Luminance extraction and aggregation settings should be reported. |
 
-ALV-Norm is useful for reporting normalized temporal brightness fluctuation, and implementations should report the luminance channel definition, cropping policy, and robust averaging choices for reproducibility.
