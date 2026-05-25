@@ -5,13 +5,13 @@
 | Year | Method | Venue | Paper | Code | Transformer-related role | Key idea |
 |---|---|---|---|---|---|---|
 | 2021 | STAR | ICCV 2021 | https://doi.org/10.1109/ICCV48922.2021.00407 | https://github.com/zzyfd/STAR-pytorch | Uses Transformer-related representation learning for direct enhancement. | Early Transformer-related LLIE method. |
-| 2022 | TPET | Engineering Applications of Artificial Intelligence 2022 | https://doi.org/10.1016/j.engappai.2022.105411 | To be checked | Uses Transformer-related modules for direct exposure-aware processing. | Focuses on Transformer-related exposure or enhancement modeling. |
+| 2022 | TPET | Engineering Applications of Artificial Intelligence 2022 | https://doi.org/10.1016/j.engappai.2022.105411 | Not given | Uses Transformer-related modules for direct exposure-aware processing. | Focuses on Transformer-related exposure or enhancement modeling. |
 | 2023 | LLFormer | AAAI 2023 | https://doi.org/10.1609/aaai.v37i3.25364 | https://github.com/TaoWangzj/LLFormer | Uses efficient Transformer design in an end-to-end LLIE pipeline. | Focuses on UHD low-light image enhancement. |
 | 2023 | Retinexformer | ICCV 2023 | https://doi.org/10.1109/ICCV51070.2023.01149 | https://github.com/caiyuanhao1998/Retinexformer | Uses illumination-guided Transformer interaction in a one-stage Retinex-based framework. | Uses illumination-aware Retinex-guided enhancement. |
 | 2023 | LRT | IEEE Transactions on Image Processing 2023 | https://doi.org/10.1109/TIP.2023.3297412 | Not given | Uses Transformer-related restoration modeling for dark light-field images. | Focuses on low-light restoration for dark light-field inputs. |
-| 2023 | STGNet | IEEE Transactions on Circuits and Systems for Video Technology 2023 | https://doi.org/10.1109/TCSVT.2023.3239511 | To be checked | Uses structure-guided Transformer-related feature processing. | Uses stage-transformer guidance for structure-preserving enhancement. |
+| 2023 | STGNet | IEEE Transactions on Circuits and Systems for Video Technology 2023 | https://doi.org/10.1109/TCSVT.2023.3239511 | Not given | Uses structure-guided Transformer-related feature processing. | Uses stage-transformer guidance for structure-preserving enhancement. |
 | 2024 | BiFormer | IEEE Transactions on Multimedia 2024 | https://doi.org/10.1109/TMM.2024.3413293 | Not given | Uses bilateral interaction with Transformer-related feature modeling. | Uses bilateral interaction for local-global collaborative perception. |
-| 2024 | MPC-Net | IEEE Transactions on Circuits and Systems for Video Technology 2024 | https://doi.org/10.1109/TCSVT.2024.3408007 | To be checked | Uses multi-prior collaborative modeling with Transformer-related components. | Uses prior-guided low-light enhancement. |
+| 2024 | MPC-Net | IEEE Transactions on Circuits and Systems for Video Technology 2024 | https://doi.org/10.1109/TCSVT.2024.3408007 | https://github.com/Shecyy/MPC-Net | Uses multi-prior collaborative modeling with Transformer-related components. | Uses prior-guided low-light enhancement. |
 | 2025 | SG-LLIE | arXiv 2025 | https://arxiv.org/abs/2504.14075 | https://github.com/minyan8/imagine | Uses structure-guided CNN-Transformer hybrid aggregation. | Uses scale-aware and structure-guided low-light enhancement. |
 | 2026 | PTM-SNet | Neural Networks 2026 | https://doi.org/10.1016/j.neunet.2025.108351 | https://github.com/kbzhang0505/PTMSNet | Uses pseudo-texture-aware or frequency-aware Transformer processing. | Focuses on progressive frequency-aware multi-scale enhancement. |
 
@@ -19,7 +19,7 @@
 
 | Year | Method | Venue | Paper | Code | Transformer-related role | Key idea |
 |---|---|---|---|---|---|---|
-| 2025 | TIMRetinex-Net | Engineering Applications of Artificial Intelligence 2025 | https://doi.org/10.1016/j.engappai.2025.112414 | To be checked | Uses Retinex decomposition with Transformer-related illumination-aware mechanisms. | Uses Retinex-based decomposition for controllable enhancement. |
+| 2025 | TIMRetinex-Net | Engineering Applications of Artificial Intelligence 2025 | https://doi.org/10.1016/j.engappai.2025.112414 | Not given | Uses Retinex decomposition with Transformer-related illumination-aware mechanisms. | Uses Retinex-based decomposition for controllable enhancement. |
 | 2025 | HVI-CIDNet | CVPR 2025 | https://doi.org/10.1109/CVPR52734.2025.00533 | https://github.com/Fediory/HVI-CIDNet | Uses Transformer-related interaction under HVI-oriented representation. | Uses HVI color representation and color-intensity decoupling. |
 | 2026 | DecoupleNet | Pattern Recognition 2026 | https://doi.org/10.1016/j.patcog.2025.112203 | https://github.com/drafly/decouplenet | Uses decoupled Transformer-related components for restoration stages. | Uses domain-specific task decoupling for low-light enhancement. |
 
